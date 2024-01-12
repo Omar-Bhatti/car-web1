@@ -1,0 +1,65 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/423086.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Lilita One', sans-serif;
+    font-size: 60px;
+    padding: 4px;
+    margin: 1px;
+    background-color: darkcyan;
+}
+
+table {
+    font-size: 40px;
+    background-color: royalblue;
+    width: 100%;
+    padding: 8px;
+    font-family: 'Lilita One', sans-serif;
+}
+
+td {
+    text-align: center;
+    width: 100px;
+}
+
+a {
+    color: black;
+}
+
+main{
+height: 600px;
+}
+
+footer{
+background-color:black;
+color: white;
+text-align: left;
+}
+
+footer ul{
+    list-style-type: none;
+}
+
+footer ul li a{
+color: white;
+text-decoration: none;
+}
+
+.div1{
+display: flex;
+justify-content: space-around;
+}
+
+.box1,.box3{
+    align-self: center;
+}
+
+.div2{
+background-color: rgb(27, 27, 27);
+text-align: centerx;
+}
+
